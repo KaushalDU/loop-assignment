@@ -1,0 +1,48 @@
+Question 1: Rotating Meal Menu
+Subject: Offer weekly rotating meal menu to subscribers
+
+Body:
+
+Hello,
+
+Your app is too complicated. I need help figuring out how to offer a weekly rotating meal menu to our subscribers.
+
+We have the following requirements as a business:
+
+Customers can choose from a “Box of 6 meals” or “Box of 12 meals”
+Categorize the meal catalogue into Breakfast, Lunch, Dinner, Desserts and Beverages like this store.
+Customers can only subscribe for weekly delivery with no one-time purchase option
+Promote diversity in meals. Customers can’t add multiple quantities of the same product.
+Every week we need to update the menu on Friday night, i.e. any new customer coming on Saturday morning shall be able to only see the latest menu/items while building their box.
+Every Friday night we also want to replace the products for existing subscribers with their like-to-like substitute i.e.
+product A (week 1 menu) → product X (week 2 menu)
+product B (week 1 menu) → product Y (week 2 menu)
+Can you please help us with this? We need to know what all is possible and how it can be achieved.
+
+Answer:
+
+Dear Client,
+
+I understand the complexity you're facing, and I'm here to help you streamline the process. Here’s a detailed guide on how to set up a weekly rotating meal menu using Loop:
+
+1.Meal Box Selection:
+To allow customers to choose between a “Box of 6 meals” or “Box of 12 meals,” you can create customizable meal boxes using the Loop Bundle Builder feature. This tool lets you define different bundle sizes and allows customers to select their preferred box.
+
+2.Meal Categorization:
+Organize your meal catalog into categories such as Breakfast, Lunch, Dinner, Desserts, and Beverages. You can do this by creating collections in your Shopify store and assigning products to these collections. Loop will then reflect these categories when customers are building their meal boxes.
+
+3.Subscription-Only Delivery:
+To ensure that customers can only subscribe for weekly delivery with no one-time purchase option, set up your products with a selling plan that specifies weekly subscriptions only. This configuration can be done in the product settings where you define the subscription rules.
+
+4.Promote Diversity in Meals:
+To promote diversity and prevent customers from adding multiple quantities of the same product, you can configure the bundle settings to restrict the quantity of each product to one per box. This ensures that each item in the box is unique.
+
+5.Weekly Menu Updates:
+Every Friday night, update your menu to show the latest items for new customers on Saturday morning. This can be done by scheduling product updates in your Loop admin dashboard. You can use the bulk action feature to replace old products with new ones across all active subscriptions.
+
+6.Like-to-Like Product Substitution:
+Set up rules for product substitution within the Loop app. For instance, product A in the week 1 menu can be substituted with product X in the week 2 menu. You can manually configure these substitutions each week to ensure that existing subscribers receive the new items as per the predefined rules.
+Implementing these steps will help you offer a rotating meal menu that updates weekly and meets your business requirements. If you need further assistance or a step-by-step walkthrough, feel free to reach out.
+
+Best regards,
+Kaushal Pathak

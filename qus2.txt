@@ -1,0 +1,28 @@
+Question 2: Restricting billing
+Subject: Billing all week orders on Friday only
+Body:
+Hi,
+We were evaluating Loop, among other subscription apps, and were wondering if you could
+help us bill all our customers on Friday every week.
+Best,
+
+
+Answer:2
+
+Dear Client,
+
+Thank you for reaching out to us about billing all your customers on Friday every week. I understand that you want to restrict billing to only Fridays.
+
+To achieve this, you can use Shopify's built-in feature to set a specific billing schedule for your customers. 
+Here's how you can set it up:
+
+1.Go to your Shopify admin panel and navigate to Settings > Billing.
+2.Click on "Billing schedules" and create a new schedule.
+3.Set the billing schedule to "Weekly" and select "Friday" as the billing day.
+4.Make sure to save your changes.
+
+Please be aware that these changes will affect all customers, so be sure to inform them ahead of time.
+If you need further assistance or have any questions about setting up your billing schedule, please feel free to reach out.
+
+Best regards,
+Kaushal Pathak
